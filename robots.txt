@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://devmehendale.github.io/al-folio/sitemap.xml
